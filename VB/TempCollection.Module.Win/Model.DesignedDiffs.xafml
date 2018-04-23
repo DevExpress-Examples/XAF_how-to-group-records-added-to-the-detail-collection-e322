@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.1.4.4448" />
+		<SchemaModule Name="SystemWindowsFormsModule" Version="8.1.4.4448" IsNewNode="True" />
+	</SchemaModules>
+</Application>
