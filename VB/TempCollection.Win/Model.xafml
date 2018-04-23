@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<ListView ID="DomainObject1_ListView">
+			<Columns>
+				<ColumnInfo PropertyName="Object2" Removed="True" />
+			</Columns>
+		</ListView>
+		<ListView ID="DomainObject2_TempObjs_ListView">
+			<Columns>
+				<ColumnInfo PropertyName="Object2" Removed="True" />
+			</Columns>
+		</ListView>
+	</Views>
+	<NavigationItems>
+		<Group ID="Default">
+			<Item ID="DomainObject1_ListView" Removed="True" />
+		</Group>
+	</NavigationItems>
+	<SchemaModules>
+		<SchemaModule Name="ValidationModule" Version="8.1.4.4448" IsNewNode="True" />
+	</SchemaModules>
+</Application>
