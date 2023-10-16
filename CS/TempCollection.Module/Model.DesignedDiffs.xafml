@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Application Title="TempCollection" Logo="ExpressAppLogo">
-	<SchemaModules IsNewNode="True">
-		<SchemaModule Name="SystemModule" Version="8.1.4.4448" IsNewNode="True" />
-		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.1.4.4448" IsNewNode="True" />
-		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.1.4.4448" IsNewNode="True" />
-	</SchemaModules>
-</Application>
